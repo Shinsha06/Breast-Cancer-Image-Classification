@@ -32,11 +32,6 @@ To execute the notebook, ensure you have the following installed:
   - scikit-learn
   - TensorFlow or PyTorch (depending on the implementation)
 
-You can install the required libraries using the following command:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
